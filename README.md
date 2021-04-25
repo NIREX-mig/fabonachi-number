@@ -1,1 +1,1 @@
-# fabonachi-number
+# fabonacci-number
